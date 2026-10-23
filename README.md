@@ -72,7 +72,7 @@ migração para uma versão baseada no **Dino Chrome original** para treinos mai
 
 ## 👤 Autor
 
-Projeto idealizado e desenvolvido por [GeffyB](https://github.com/GeffyB).  
+Projeto idealizado e desenvolvido por [Gefferson Batista](https://[github.com/GeffyB](https://github.com/lumbergeff)).  
 
 
 ---
